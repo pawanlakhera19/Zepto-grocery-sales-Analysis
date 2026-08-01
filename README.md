@@ -35,4 +35,3 @@ I learned that intuitive assumptions about city tiers and store size don't alway
 This is a self-driven project, built independently to strengthen Excel-based data analysis and dashboard storytelling skills.
 LinkedIn: https://www.linkedin.com/in/pawan-lakhera-738429174
 GitHub: https://github.com/pawanlakhera49
-# Zepto-grocery-sales-Analysis
